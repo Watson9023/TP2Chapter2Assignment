@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="AdditioniModule" />
+        <module name="DivisionModule" />
+        <module name="MultiplicationiModule" />
+        <module name="question1" />
+        <module name="SubtractionModule" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AdditioniModule" target="1.5" />
+      <module name="AdditionModule" target="1.5" />
+      <module name="DivisionModule" target="1.5" />
+      <module name="MultiplicationiModule" target="1.5" />
+      <module name="MultiplicationModule" target="1.5" />
+      <module name="question1" target="1.5" />
+      <module name="question2" target="1.5" />
+      <module name="SubtractionModule" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

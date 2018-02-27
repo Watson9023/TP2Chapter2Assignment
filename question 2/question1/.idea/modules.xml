@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/question2/AdditioniModule/AdditioniModule.iml" filepath="$PROJECT_DIR$/question2/AdditioniModule/AdditioniModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/question2/DivisionModule/DivisionModule.iml" filepath="$PROJECT_DIR$/question2/DivisionModule/DivisionModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/question2/MultiplicationiModule/MultiplicationiModule.iml" filepath="$PROJECT_DIR$/question2/MultiplicationiModule/MultiplicationiModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/question2/SubtractionModule/SubtractionModule.iml" filepath="$PROJECT_DIR$/question2/SubtractionModule/SubtractionModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/question1.iml" filepath="$PROJECT_DIR$/question1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/question2/question2.iml" filepath="$PROJECT_DIR$/question2/question2.iml" />
+    </modules>
+  </component>
+</project>
